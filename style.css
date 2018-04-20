@@ -464,3 +464,8 @@ article ul li:last-child
 	-moz-animation-delay: 0, 2.5s;
 	animation-delay: 0, 2.5s;
 }
+
+
+.chronoTable { width:100%; border-collapse: collapse; margin: 15px 0 15px 0; }
+.chronoLine td { border-top: 1px solid black; text-align: center; }
+.chronoDesc td div { padding:3px; margin:3px; background-color: #999; border-radius:4px; text-align: center; }
