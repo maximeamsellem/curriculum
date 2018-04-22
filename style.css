@@ -466,6 +466,7 @@ article ul li:last-child
 }
 
 
-.chronoTable { width:100%; border-collapse: collapse; margin: 15px 0 15px 0; }
-.chronoLine td { border-top: 1px solid black; text-align: center; }
+.chronoTable { width:100%; border-collapse: collapse;  }
+.chronoYear td { border-top: 1px solid black; text-align: center; }
+.chronoLine td { border-left: 1px solid black; border-right: 1px solid black; }
 .chronoDesc td div { padding:3px; margin:3px; background-color: #999; border-radius:4px; text-align: center; }
