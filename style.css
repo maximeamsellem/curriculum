@@ -305,6 +305,9 @@ article ul li:last-child
 		margin: 5mm 0mm 5mm 0mm;
 	}
 
+	section { padding: 10px 0 0 0; }
+	section:last-child { padding: 10px 0 10px; }
+
 	.mainDetails {
 		padding: 0px 35px 5px 35px;
 		background: white;
