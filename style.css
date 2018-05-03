@@ -470,3 +470,4 @@ article ul li:last-child
 .chronoYear td { border-top: 1px solid black; text-align: center; }
 .chronoLine td { border-left: 1px solid black; border-right: 1px solid black; }
 .chronoDesc td div { padding:3px; margin:3px; background-color: #999; border-radius:4px; text-align: center; }
+.ChronoJobTitle { font-size: 0.6em; }
